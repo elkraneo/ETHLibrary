@@ -11,9 +11,6 @@ import ETHAssets
 
 struct GridRealityView: View {
   
-  @State private var showImmersiveSpace = false
-  @State private var immersiveSpaceIsShown = false
-  
   @Environment(\.openWindow) private var openWindow
   //@Environment(\.dismissWindow) private var dismissWindow
   

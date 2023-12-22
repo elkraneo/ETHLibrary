@@ -31,6 +31,7 @@ struct GridModel3D: View {
               //TODO: open volumetric window
             } label: {
               Model3D(named: scene.rawValue, bundle: eTHAssetsBundle) { model in
+                let _ = print(model)
                 model
               } placeholder: {
                 ProgressView()
