@@ -1,0 +1,12 @@
+#usda 1.0
+
+def "ETH_Minimal_Surface_of_Enneper" (
+    active = true
+    prepend references = @Models/ETH_Minimal_Surface_of_Enneper.usdz@
+)
+{
+    float3 xformOp:scale = (0.01, 0.01, 0.01)
+    float3 xformOp:translate = (0, 1.4901161e-8, 0)
+    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:orient", "xformOp:scale"]
+}
+

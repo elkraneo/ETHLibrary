@@ -1,0 +1,26 @@
+{
+  "pathsToIds" : {
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Dupinsche_Cyclide.usda" : "2CA3A694-CFD2-4D21-96D0-73F89F835DAE",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Envelope_geodetic_lines_on_ellipsoid.usda" : "E451F82B-E834-45B8-AFA4-1AFBB5B5985F",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Minimal_Surface_of_Enneper.usda" : "21B67088-CA27-42A7-B81A-2CD976CB2777",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Models\/ETH_Dupinsche_Cyclide.usdz" : "C04B4ED8-3767-4542-9421-CC04314011E0",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Models\/ETH_Envelope_geodetic_lines_on_ellipsoid.usdz" : "D7C51F2E-3DC6-4A38-8E5C-F6FDFE593871",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Models\/ETH_Minimal_Surface_of_Enneper.usdz" : "8B26C906-B918-4CDF-B11F-032AF81CE2A2",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Models\/ETH_Polyhedron_Penetration.usdz" : "97833CEE-39DF-4FBE-8B44-C8A701023349",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Models\/ETH_Spherical_projection_of_flat_curves_1.usdz" : "141CC293-4B57-4BC8-988B-A2EF7E20EAA6",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Models\/ETH_Spherical_projection_of_flat_curves_2.usdz" : "EE7B19DB-8C37-4D9E-9E4A-EBA00ACB77D2",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Models\/ETH_Spherical_projection_of_flat_curves_3.usdz" : "545D0791-262A-4941-B757-F4831530A218",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Models\/ETH_Surface_of_Degree_4_with_4_Double_Circles.usdz" : "BC6D99CF-8668-44CD-A3B4-1E65D8670A8A",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Models\/ETH_Torus_with_geodetic_and_asymptotic_curves.usdz" : "8F6613C0-6CEF-41B5-8B06-5FF85EBB3B38",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Models\/Minimal_Surface_of_Enneper.usda" : "DB33A2D5-500C-4A02-9227-F83B4348C25E",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Models\/Untitled%20Scene.usda" : "409B2F0A-43C4-40F6-8490-0B6BF1995046",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Polyhedron_Penetration.usda" : "33E516AD-1133-4435-BD92-CF0D98D337C7",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Scene.usda" : "7BDF41A0-9587-4F8C-A34A-7793DDB46DF6",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Scenes\/Dupinsche_Cyclide.usda" : "EB495FB7-87CC-42A5-BD0D-73D36DFB46BE",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Spherical_projection_of_flat_curves_1.usda" : "1BFC3AAD-A482-4AAB-944A-87CD82E32F34",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Spherical_projection_of_flat_curves_2.usda" : "6F52A76E-17B5-4325-93F7-E922EB2F36F4",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Spherical_projection_of_flat_curves_3.usda" : "C0F6E90C-DBF6-47F8-9FC0-255087536747",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Surface_of_Degree_4_with_4_Double_Circles.usda" : "025F08B8-0FE2-4B2A-89D6-9317EC14A3BD",
+    "ETHAssets\/Sources\/ETHAssets\/ETHAssets.rkassets\/Torus_with_geodetic_and_asymptotic_curves.usda" : "52A15AF2-EE10-42BC-B865-CFD43E8C0B3A"
+  }
+}
